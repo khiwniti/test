@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Safety Dashboard",
+  "description": "A modern responsive dashboard for monitoring hospital safety incidents, featuring KPI cards, trend charts, and a real-time activity feed.",
+  "requestFramePermissions": []
+}
